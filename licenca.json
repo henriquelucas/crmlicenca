@@ -1,0 +1,16 @@
+{
+    "lojas": [
+        {
+            "cnpj": "12345678000190",
+            "licenca": true
+        },
+        {
+            "cnpj": "98765432000110",
+            "licenca": true
+        },
+        {
+            "cnpj": "11222333000144",
+            "licenca": false
+        }
+    ]
+}
